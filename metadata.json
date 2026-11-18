@@ -1,0 +1,6 @@
+{
+  "name": "Eagles Wings Network",
+  "description": "Soaring for Health, Healing, and Hope — grassroots medical, food, educational, and humanitarian outreach serving communities in the United States and internationally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
